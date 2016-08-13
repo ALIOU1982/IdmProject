@@ -10,5 +10,6 @@ package idm.com;
  * @author thiernaliou
  */
 public class MonMain {
-    
+    System.out.println("Essaie ");
+    System.out.println("Test 1 ");
 }
