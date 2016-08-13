@@ -12,4 +12,5 @@ package idm.com;
 public class MonMain {
     System.out.println("Essaie ");
     System.out.println("Test 1 ");
+    System.out.println("Test 2 ");
 }
